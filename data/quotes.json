@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Quote",
+        "referenceId": "QuoteRef1"
+      },
+      "Name": "Test Quote",
+      "OpportunityId": "@OpportunityRef1",
+      "contactId": "@ContactRef1",
+      "BillingCity": "Zagreb",
+      "BillingCountry": "Croatia",
+      "ShippingCity": "Zagreb",
+      "ShippingCountry": "Croatia",
+      "Status": "Draft"
+    }
+  ]
+}

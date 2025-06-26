@@ -1,0 +1,12 @@
+[
+    {
+        "sobject": "Product2",
+        "saveRefs": true,
+        "files": ["dummy-products.json"]
+    },
+    {
+        "sobject": "PricebookEntry",
+        "resolveRefs": true,
+        "files": ["dummy-pricebookentries.json"]
+    }
+]
